@@ -3,6 +3,7 @@
 Para correr el juego se deben seguir las instrucciones en terminal
 
 ```sh
-    cs game
+    cd game
     python3 main.py
-    ```
+    
+    y a jugar ....

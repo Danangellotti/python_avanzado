@@ -1,1 +1,1 @@
-print('Hola desde esta máquina ubuntu')
+print('Hola desde esta máquina')
